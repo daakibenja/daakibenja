@@ -1,5 +1,6 @@
 # Hi there 👋
-## I'm Benjamin R. Daaki 
+## I'm Benjamin R. Daaki [![committers.top badge](https://user-badge.committers.top/uganda_private/daakibenja.svg)](https://user-badge.committers.top/uganda_private/daakibenja)
+
 
 - 🔭 I’m currently working on Opensource Projects 
 - 🌱 I’m currently learning Deep Learning
